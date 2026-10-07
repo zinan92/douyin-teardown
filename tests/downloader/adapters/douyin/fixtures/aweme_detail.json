@@ -1,0 +1,35 @@
+{
+  "status_code": 0,
+  "aweme_detail": {
+    "aweme_id": "7380308675841297704",
+    "desc": "测试视频描述 — a sample Douyin video for testing",
+    "create_time": 1700000000,
+    "author": {
+      "uid": "12345678",
+      "nickname": "测试用户",
+      "unique_id": "test_user_unique"
+    },
+    "statistics": {
+      "digg_count": 1234,
+      "comment_count": 56,
+      "share_count": 78,
+      "collect_count": 90,
+      "play_count": 9999
+    },
+    "share_url": "https://www.douyin.com/video/7380308675841297704",
+    "video": {
+      "play_addr": {
+        "uri": "v0300fg10000cqt5ijbc77uftb2n5uag",
+        "url_list": [
+          "https://v19-webapp.douyin.com/video/play/v0300fg10000cqt5ijbc77uftb2n5uag/?watermark=0",
+          "https://v19-webapp.douyin.com/video/play/v0300fg10000cqt5ijbc77uftb2n5uag/?watermark=1"
+        ]
+      },
+      "cover": {
+        "url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-p-test/cover.jpg"
+        ]
+      }
+    }
+  }
+}

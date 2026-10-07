@@ -1,0 +1,19 @@
+douyin-teardown
+Copyright (c) 2026 zinan92 — MIT License (see LICENSE)
+
+这个仓库合并了三份代码，每份都是从下面这个版本整份复制进来的：
+
+- content_downloader/  ← github.com/zinan92/content-downloader @ 96723ca46859e8db51a21b4eac779d4b5dcc6f9c（MIT）
+- content_extractor/   ← github.com/zinan92/content-extractor @ 810f66193424010a71650cb8ed31eef37ac2af0d
+                         （原仓库没有 LICENSE 文件；作者同一人，在这里按 MIT 发布）
+- douyin_teardown/     ← 从 content-studio @ d01fada8 的 pipeline / baseline / judge / structure 抽出
+
+第三方代码（保留原版权头，按 Apache License 2.0）：
+
+- content_downloader/adapters/douyin/abogus.py
+    出自 f2（https://github.com/johnserf-seed/f2），作者 JohnserfSeed，Apache-2.0
+- content_downloader/adapters/douyin/xbogus.py
+    出自 Douyin_TikTok_Download_API（https://github.com/Evil0ctal/Douyin_TikTok_Download_API），
+    Copyright (C) 2021 Evil0ctal，Apache-2.0
+
+Apache License 2.0 全文：https://www.apache.org/licenses/LICENSE-2.0

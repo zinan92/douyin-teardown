@@ -1,0 +1,36 @@
+{
+  "id": "1234567890",
+  "title": "Hello from X! This is a test tweet with some interesting content.",
+  "description": "Hello from X! This is a test tweet with some interesting content.",
+  "uploader": "Test User",
+  "uploader_id": "testuser",
+  "timestamp": 1711699200,
+  "webpage_url": "https://x.com/testuser/status/1234567890",
+  "ext": "mp4",
+  "formats": [
+    {
+      "format_id": "hd",
+      "ext": "mp4",
+      "vcodec": "h264",
+      "acodec": "aac",
+      "width": 1280,
+      "height": 720,
+      "url": "https://video.twimg.com/ext_tw_video/1234567890/pu/vid/1280x720/video.mp4"
+    }
+  ],
+  "thumbnails": [
+    {
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/1234567890/pu/img/thumb.jpg",
+      "id": "0"
+    }
+  ],
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1234567890/pu/img/thumb.jpg",
+  "like_count": 42,
+  "repost_count": 7,
+  "comment_count": 3,
+  "view_count": 1500,
+  "duration": 30.5,
+  "width": 1280,
+  "height": 720,
+  "_type": "video"
+}

@@ -1,0 +1,15 @@
+{
+  "_说明": "转写纠错词表：左边是语音识别常见的错误写法，右边是正确写法。可以随时增删，不需要改代码。",
+  "replacements": {
+    "Kodak": "Codex",
+    "Kodai": "Codex",
+    "Kodex": "Codex",
+    "Cloud Code": "Claude Code",
+    "卡斯克": "卡兹克",
+    "Growke": "Grok",
+    "Groke": "Grok",
+    "poken": "token",
+    "Nate Herc": "Nate Herk",
+    "NateHerk": "Nate Herk"
+  }
+}

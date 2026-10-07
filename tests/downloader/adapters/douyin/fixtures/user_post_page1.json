@@ -1,0 +1,67 @@
+{
+  "status_code": 0,
+  "aweme_list": [
+    {
+      "aweme_id": "1001",
+      "desc": "用户视频 1",
+      "create_time": 1700001000,
+      "author": {
+        "uid": "98765",
+        "nickname": "创作者A"
+      },
+      "statistics": {
+        "digg_count": 100,
+        "comment_count": 10,
+        "share_count": 5,
+        "collect_count": 20,
+        "play_count": 5000
+      },
+      "share_url": "https://www.douyin.com/video/1001",
+      "video": {
+        "play_addr": {
+          "uri": "vid_1001",
+          "url_list": [
+            "https://v19-webapp.douyin.com/video/1001?watermark=0"
+          ]
+        },
+        "cover": {
+          "url_list": [
+            "https://p3-sign.douyinpic.com/cover1.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "aweme_id": "1002",
+      "desc": "用户视频 2",
+      "create_time": 1700002000,
+      "author": {
+        "uid": "98765",
+        "nickname": "创作者A"
+      },
+      "statistics": {
+        "digg_count": 200,
+        "comment_count": 20,
+        "share_count": 10,
+        "collect_count": 30,
+        "play_count": 8000
+      },
+      "share_url": "https://www.douyin.com/video/1002",
+      "video": {
+        "play_addr": {
+          "uri": "vid_1002",
+          "url_list": [
+            "https://v19-webapp.douyin.com/video/1002?watermark=0"
+          ]
+        },
+        "cover": {
+          "url_list": [
+            "https://p3-sign.douyinpic.com/cover2.jpg"
+          ]
+        }
+      }
+    }
+  ],
+  "has_more": 1,
+  "max_cursor": 1700002000
+}

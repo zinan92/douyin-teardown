@@ -1,0 +1,7 @@
+{
+  "ttwid": "从浏览器 DevTools > Application > Cookies 复制",
+  "odin_tt": "从浏览器复制",
+  "passport_csrf_token": "从浏览器复制",
+  "sessionid_ss": "从浏览器复制（可选，有些 API 不需要）",
+  "msToken": "可选，程序会自动生成"
+}

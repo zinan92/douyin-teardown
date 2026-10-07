@@ -1,0 +1,20 @@
+{
+  "platform": "x",
+  "content_id": "1905678901234567890",
+  "content_type": "video",
+  "title": "Example X video post",
+  "description": "This is an example video post from X platform",
+  "author_id": "12345678",
+  "author_name": "techcreator",
+  "publish_time": "2026-03-20T16:45:00Z",
+  "source_url": "https://x.com/techcreator/status/1905678901234567890",
+  "media_files": ["media/1905678901234567890.mp4", "media/1905678901234567890.jpg"],
+  "cover_file": "media/1905678901234567890.jpg",
+  "metadata_file": "metadata.json",
+  "likes": 3421,
+  "comments": 156,
+  "shares": 789,
+  "collects": 0,
+  "views": 98000,
+  "downloaded_at": "2026-03-30T02:20:00.000000Z"
+}

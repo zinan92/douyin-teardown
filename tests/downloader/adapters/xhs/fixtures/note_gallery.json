@@ -1,0 +1,25 @@
+{
+  "message": "获取小红书作品数据成功",
+  "data": {
+    "作品ID": "abc123gallery",
+    "作品标题": "Beautiful Sunset Photos",
+    "作品描述": "A collection of sunset photos taken at Bund, Shanghai",
+    "作品类型": "图文",
+    "作者ID": "user456",
+    "作者昵称": "SunsetPhotographer",
+    "作者链接": "https://www.xiaohongshu.com/user/profile/user456",
+    "作品链接": "https://www.xiaohongshu.com/explore/abc123gallery",
+    "发布时间": "2024-03-10_08:00:00",
+    "时间戳": 1710000000.0,
+    "点赞数量": "1024",
+    "评论数量": "88",
+    "分享数量": "256",
+    "收藏数量": "512",
+    "下载地址": [
+      "https://sns-img-hw.xhscdn.com/image1.jpg",
+      "https://sns-img-hw.xhscdn.com/image2.jpg",
+      "https://sns-img-hw.xhscdn.com/image3.jpg"
+    ],
+    "动图地址": [null]
+  }
+}

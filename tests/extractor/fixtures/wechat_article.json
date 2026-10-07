@@ -1,0 +1,20 @@
+{
+  "platform": "wechat_oa",
+  "content_id": "wechat_oa_article_20260325",
+  "content_type": "article",
+  "title": "\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u793a\u4f8b",
+  "description": "\u8fd9\u662f\u4e00\u7bc7\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0",
+  "author_id": "gh_abc123def456",
+  "author_name": "\u79d1\u6280\u524d\u6cbf",
+  "publish_time": "1774760025",
+  "source_url": "https://mp.weixin.qq.com/s/example_article_id",
+  "media_files": ["media/article.html", "media/img_01.jpg"],
+  "cover_file": "media/img_01.jpg",
+  "metadata_file": "metadata.json",
+  "likes": 1200,
+  "comments": 89,
+  "shares": 340,
+  "collects": 560,
+  "views": 45000,
+  "downloaded_at": "2026-03-30T02:15:00.000000Z"
+}

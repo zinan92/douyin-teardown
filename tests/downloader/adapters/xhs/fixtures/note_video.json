@@ -1,0 +1,21 @@
+{
+  "message": "获取小红书作品数据成功",
+  "data": {
+    "作品ID": "xyz789video",
+    "作品标题": "Morning Workout Routine",
+    "作品描述": "15-minute full body workout — no equipment needed!",
+    "作品类型": "视频",
+    "作者ID": "fitnessguru99",
+    "作者昵称": "FitnessGuru",
+    "作者链接": "https://www.xiaohongshu.com/user/profile/fitnessguru99",
+    "作品链接": "https://www.xiaohongshu.com/explore/xyz789video",
+    "发布时间": "2024-03-08_12:00:00",
+    "时间戳": 1709900000.0,
+    "点赞数量": "5000",
+    "评论数量": "320",
+    "分享数量": "1100",
+    "收藏数量": "2400",
+    "下载地址": ["https://sns-video-hw.xhscdn.com/workout.mp4"],
+    "动图地址": [null]
+  }
+}

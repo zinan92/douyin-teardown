@@ -1,0 +1,37 @@
+{
+  "status_code": 0,
+  "aweme_list": [
+    {
+      "aweme_id": "1003",
+      "desc": "用户视频 3",
+      "create_time": 1700003000,
+      "author": {
+        "uid": "98765",
+        "nickname": "创作者A"
+      },
+      "statistics": {
+        "digg_count": 300,
+        "comment_count": 30,
+        "share_count": 15,
+        "collect_count": 40,
+        "play_count": 12000
+      },
+      "share_url": "https://www.douyin.com/video/1003",
+      "video": {
+        "play_addr": {
+          "uri": "vid_1003",
+          "url_list": [
+            "https://v19-webapp.douyin.com/video/1003?watermark=0"
+          ]
+        },
+        "cover": {
+          "url_list": [
+            "https://p3-sign.douyinpic.com/cover3.jpg"
+          ]
+        }
+      }
+    }
+  ],
+  "has_more": 0,
+  "max_cursor": 1700003000
+}

@@ -1,0 +1,11 @@
+.venv*/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.env
+cookies.json
+*cookies*.json
+!cookies.json.example
+data/
+downloads/
+.DS_Store
