@@ -81,7 +81,15 @@ teardown 链接 --json            # 完整回执
 
 ### 在 Claude Code / Codex 里用
 
-把这个仓库当 skill 装上（见 [`SKILL.md`](SKILL.md)），然后直接说「拆一下这条：<链接>」。
+先照上面装好（仓库里要有 `.venv`），再把仓库链接成 skill：
+
+```bash
+mkdir -p ~/.claude/skills ~/.codex/skills
+ln -s "$PWD" ~/.claude/skills/douyin-teardown   # Claude Code
+ln -s "$PWD" ~/.codex/skills/douyin-teardown    # Codex
+```
+
+然后直接说「拆一下这条：<链接>」。skill 的说明在 [`SKILL.md`](SKILL.md)。
 
 ## 也能单独用的两个工具
 

@@ -5,6 +5,8 @@ description: 拆一条抖音视频：点赞是作者中位数的几倍、一句�
 
 # douyin-teardown
 
+这个 SKILL.md 所在的目录就是仓库。下面的命令都用仓库自己的环境跑：`<这个目录>/.venv/bin/teardown`、`<这个目录>/.venv/bin/content-downloader`、`<这个目录>/.venv/bin/content-extractor`。没有 `.venv` 就先照 README「装」那一节装好。
+
 ## 什么时候用
 
 | 用户说 | 做 |
@@ -16,7 +18,7 @@ description: 拆一条抖音视频：点赞是作者中位数的几倍、一句�
 
 ## 第一次用
 
-在仓库目录里先跑 `teardown doctor`，按 ✗ 后面的提示补齐（Python、ffmpeg、转文字、cookies、AI）。cookies 要用户自己从浏览器导出——**不要替用户登录、不要读浏览器里的 cookies**，也不要把 cookies 放进仓库目录。
+先跑 `<这个目录>/.venv/bin/teardown doctor`，按 ✗ 后面的提示补齐（Python、ffmpeg、转文字、cookies、AI）。cookies 要用户自己从浏览器导出——**不要替用户登录、不要读浏览器里的 cookies**，也不要把 cookies 放进仓库目录。
 
 ## 跑完之后
 
