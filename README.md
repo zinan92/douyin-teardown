@@ -25,6 +25,8 @@ fail AI 输出不合格                  → 带着错误重试，还不行就�
 
 **不想装**：[PROMPT.md](PROMPT.md) 是一段贴进豆包 / DeepSeek / ChatGPT / Claude 就能用的提示词，判断规则一样，文字稿和点赞数自己准备。
 
+**想要网页版**：同样的拆解在 [选题工作台](https://xuanti.park-ai-intel.com/) 的「找」里，网页上直接用，免费试用 7 天。
+
 ## 它怎么判断
 
 1. **下载**（`content_downloader`）：视频、标题、点赞、收藏、转发、评论、作者。
